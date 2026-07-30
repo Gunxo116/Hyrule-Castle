@@ -1,0 +1,17 @@
+{
+  "gameType": "CREATIVE",
+  "difficulty": "PEACEFUL",
+  "difficultyLocked": false,
+  "cheats": true,
+  "invited": [
+    "a952ee15-d25e-4360-8eef-997bb2dab775",
+    "0bb462b0-2c3d-4d33-8381-0225bf76abeb",
+    "2c33bc1d-9b87-4698-8386-f397754aae84"
+  ],
+  "shareResourcePack": false,
+  "oppedPlayers": [
+    "a952ee15-d25e-4360-8eef-997bb2dab775",
+    "0bb462b0-2c3d-4d33-8381-0225bf76abeb",
+    "2c33bc1d-9b87-4698-8386-f397754aae84"
+  ]
+}
