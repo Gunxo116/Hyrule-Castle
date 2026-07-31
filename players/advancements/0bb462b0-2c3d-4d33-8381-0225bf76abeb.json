@@ -779,48 +779,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2026-07-30 00:50:11 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-07-30 00:41:49 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
-    "criteria": {
-      "has_smooth_quartz": "2026-07-30 00:50:11 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_fence": {
-    "criteria": {
-      "has_planks": "2026-07-30 00:41:49 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2026-07-30 00:40:08 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_shelf": {
-    "criteria": {
-      "has_stripped_pale_oak_log": "2026-07-30 00:42:03 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2026-07-30 01:01:23 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_shelf": {
     "criteria": {
       "has_stripped_spruce_log": "2026-07-30 00:39:54 -0300"
@@ -833,27 +791,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2026-07-30 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-07-30 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-07-30 00:40:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
       "has_stripped_log": "2026-07-30 00:40:08 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
-      "has_stripped_log": "2026-07-30 00:42:03 -0300"
+      "has_log": "2026-07-30 00:40:08 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+  "minecraft:recipes/decorations/crimson_shelf": {
     "criteria": {
-      "has_smooth_quartz": "2026-07-30 00:50:11 -0300"
+      "has_stripped_crimson_stem": "2026-07-30 00:40:08 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
     "criteria": {
-      "has_log": "2026-07-30 00:39:54 -0300"
+      "has_planks": "2026-07-30 00:41:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-07-30 00:41:49 -0300"
     },
     "done": true
   },
@@ -866,12 +848,6 @@
   "minecraft:recipes/redstone/pale_oak_door": {
     "criteria": {
       "has_planks": "2026-07-30 00:41:49 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2026-07-30 00:39:54 -0300"
     },
     "done": true
   },
@@ -893,24 +869,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
-    "criteria": {
-      "has_log": "2026-07-30 00:42:03 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_log": "2026-07-30 00:40:08 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
-    "criteria": {
-      "has_log": "2026-07-30 00:42:03 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/pale_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2026-07-30 00:41:49 -0300"
@@ -923,21 +881,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pale_oak_shelf": {
+    "criteria": {
+      "has_stripped_pale_oak_log": "2026-07-30 00:42:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_log": "2026-07-30 00:42:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-07-30 00:42:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-07-30 00:42:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-07-30 00:44:35 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_shelf": {
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
-      "has_stripped_crimson_stem": "2026-07-30 00:40:08 -0300"
+      "has_smooth_quartz": "2026-07-30 00:50:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2026-07-30 00:50:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2026-07-30 00:50:11 -0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2026-07-30 00:50:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-07-30 01:01:23 -0300"
     },
     "done": true
   },
